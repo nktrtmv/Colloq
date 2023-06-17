@@ -35,6 +35,6 @@ WHERE
 
     internal static string Delete => @"
 DELETE FROM tasks
-WHERE id = @TaskId;
+WHERE id = @Id;
 ";
 }
