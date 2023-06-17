@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0QDzE/fUNMHJFGEBKTyVrDfbMNVon/dcVVYu4LmmbIHhqSAJDIBeeSt8SZbqqMqmK6QJDg+6o7zO/UW70eWRQ==",
+  "success": true,
+  "projectFilePath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "/Users/nartemov/.nuget/packages/jetbrains.annotations/2023.2.0-eap4/jetbrains.annotations.2023.2.0-eap4.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

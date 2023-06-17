@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Application/UserAuthenticationService.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Application/UserAuthenticationService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Application/UserAuthenticationService.Application.csproj",
+        "projectName": "UserAuthenticationService.Application",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Application/UserAuthenticationService.Application.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj"
+              },
+              "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain/UserAuthenticationService.Domain.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain/UserAuthenticationService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj",
+        "projectName": "UserAuthenticationService.Domain.Abstractions",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain/UserAuthenticationService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain/UserAuthenticationService.Domain.csproj",
+        "projectName": "UserAuthenticationService.Domain",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain/UserAuthenticationService.Domain.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj"
+              },
+              "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Infrastructure.Abstractions/UserAuthenticationService.Infrastructure.Abstractions.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Infrastructure.Abstractions/UserAuthenticationService.Infrastructure.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Infrastructure.Abstractions/UserAuthenticationService.Infrastructure.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Infrastructure.Abstractions/UserAuthenticationService.Infrastructure.Abstractions.csproj",
+        "projectName": "UserAuthenticationService.Infrastructure.Abstractions",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Infrastructure.Abstractions/UserAuthenticationService.Infrastructure.Abstractions.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Infrastructure.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

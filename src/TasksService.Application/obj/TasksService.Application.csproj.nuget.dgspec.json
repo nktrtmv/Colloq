@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nartemov/Desktop/Colloq/src/TasksService.Application/TasksService.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/nartemov/Desktop/Colloq/src/TasksService.Application/TasksService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/src/TasksService.Application/TasksService.Application.csproj",
+        "projectName": "TasksService.Application",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Application/TasksService.Application.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj"
+              },
+              "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain/TasksService.Domain.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain/TasksService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.2.0-eap4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj",
+        "projectName": "TasksService.Domain.Abstractions",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.2.0-eap4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain/TasksService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain/TasksService.Domain.csproj",
+        "projectName": "TasksService.Domain",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain/TasksService.Domain.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/TasksService.Domain.Abstractions.csproj"
+              },
+              "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/TasksService.Infrastructure.Abstractions.csproj": {
+                "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/TasksService.Infrastructure.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.2.0-eap4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/TasksService.Infrastructure.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/TasksService.Infrastructure.Abstractions.csproj",
+        "projectName": "TasksService.Infrastructure.Abstractions",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/TasksService.Infrastructure.Abstractions.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.2.0-eap4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

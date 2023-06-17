@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj": {}
+  },
+  "projects": {
+    "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj",
+        "projectName": "UserAuthenticationService.Domain.Abstractions",
+        "projectPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/UserAuthenticationService.Domain.Abstractions.csproj",
+        "packagesPath": "/Users/nartemov/.nuget/packages/",
+        "outputPath": "/Users/nartemov/Desktop/Colloq/UserAuthenticationService.Domain.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nartemov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://artifactory.s.o3.ru/artifactory/api/nuget/v3/nuget-virtual-virtual": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

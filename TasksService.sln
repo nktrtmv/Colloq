@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksService.Presentation", "src\TasksService.Presentation\TasksService.Presentation.csproj", "{EA634147-3CFF-4737-A75C-0E088D430649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksService.Application", "src/TasksService.Application\TasksService.Application.csproj", "{B86BF6E6-37AB-4583-8104-189D7FE5D2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksService.Domain", "src/TasksService.Domain\TasksService.Domain.csproj", "{95821B70-E41B-4803-869C-87B94E17958C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksService.Infrastructure", "src/TasksService.Infrastructure\TasksService.Infrastructure.csproj", "{7E8BDAC0-9914-4485-ACB6-CA045BB9E095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksService.Infrastructure.Abstractions", "src/TasksService.Infrastructure.Abstractions\TasksService.Infrastructure.Abstractions.csproj", "{9CDD1C7E-7F18-4AA8-B5FB-43714E1E9F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksService.Domain.Abstractions", "src/TasksService.Domain.Abstractions\TasksService.Domain.Abstractions.csproj", "{979E5742-4085-4A4F-81C1-EFF6824DD656}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{341AD5EC-588E-48B9-A9AE-05F1A72AE421}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{134CC9FB-3ED2-4BCC-A689-857439BB43DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA634147-3CFF-4737-A75C-0E088D430649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA634147-3CFF-4737-A75C-0E088D430649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA634147-3CFF-4737-A75C-0E088D430649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA634147-3CFF-4737-A75C-0E088D430649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86BF6E6-37AB-4583-8104-189D7FE5D2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86BF6E6-37AB-4583-8104-189D7FE5D2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86BF6E6-37AB-4583-8104-189D7FE5D2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86BF6E6-37AB-4583-8104-189D7FE5D2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95821B70-E41B-4803-869C-87B94E17958C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95821B70-E41B-4803-869C-87B94E17958C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95821B70-E41B-4803-869C-87B94E17958C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95821B70-E41B-4803-869C-87B94E17958C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8BDAC0-9914-4485-ACB6-CA045BB9E095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8BDAC0-9914-4485-ACB6-CA045BB9E095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8BDAC0-9914-4485-ACB6-CA045BB9E095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8BDAC0-9914-4485-ACB6-CA045BB9E095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDD1C7E-7F18-4AA8-B5FB-43714E1E9F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDD1C7E-7F18-4AA8-B5FB-43714E1E9F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDD1C7E-7F18-4AA8-B5FB-43714E1E9F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDD1C7E-7F18-4AA8-B5FB-43714E1E9F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979E5742-4085-4A4F-81C1-EFF6824DD656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979E5742-4085-4A4F-81C1-EFF6824DD656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979E5742-4085-4A4F-81C1-EFF6824DD656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979E5742-4085-4A4F-81C1-EFF6824DD656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B86BF6E6-37AB-4583-8104-189D7FE5D2F2} = {134CC9FB-3ED2-4BCC-A689-857439BB43DA}
+		{95821B70-E41B-4803-869C-87B94E17958C} = {134CC9FB-3ED2-4BCC-A689-857439BB43DA}
+		{979E5742-4085-4A4F-81C1-EFF6824DD656} = {134CC9FB-3ED2-4BCC-A689-857439BB43DA}
+		{7E8BDAC0-9914-4485-ACB6-CA045BB9E095} = {134CC9FB-3ED2-4BCC-A689-857439BB43DA}
+		{9CDD1C7E-7F18-4AA8-B5FB-43714E1E9F1E} = {134CC9FB-3ED2-4BCC-A689-857439BB43DA}
+		{EA634147-3CFF-4737-A75C-0E088D430649} = {134CC9FB-3ED2-4BCC-A689-857439BB43DA}
+	EndGlobalSection
+EndGlobal

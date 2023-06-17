@@ -1,0 +1,15 @@
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/bin/Debug/net7.0/TasksService.Infrastructure.deps.json
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/bin/Debug/net7.0/TasksService.Infrastructure.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/bin/Debug/net7.0/TasksService.Infrastructure.pdb
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/bin/Debug/net7.0/TasksService.Infrastructure.Abstractions.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/bin/Debug/net7.0/TasksService.Infrastructure.Abstractions.pdb
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.csproj.AssemblyReference.cache
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.AssemblyInfoInputs.cache
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.AssemblyInfo.cs
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.csproj.CopyComplete
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/refint/TasksService.Infrastructure.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/TasksService.Infrastructure.pdb
+/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure/obj/Debug/net7.0/ref/TasksService.Infrastructure.dll

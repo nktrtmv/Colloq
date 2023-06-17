@@ -1,0 +1,12 @@
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/bin/Debug/net7.0/TasksService.Domain.Abstractions.deps.json
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/bin/Debug/net7.0/TasksService.Domain.Abstractions.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/bin/Debug/net7.0/TasksService.Domain.Abstractions.pdb
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.csproj.AssemblyReference.cache
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.AssemblyInfoInputs.cache
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.AssemblyInfo.cs
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.csproj.CoreCompileInputs.cache
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/refint/TasksService.Domain.Abstractions.dll
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/TasksService.Domain.Abstractions.pdb
+/Users/nartemov/Desktop/Colloq/src/TasksService.Domain.Abstractions/obj/Debug/net7.0/ref/TasksService.Domain.Abstractions.dll

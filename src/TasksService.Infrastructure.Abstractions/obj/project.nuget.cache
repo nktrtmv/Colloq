@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3Pu5r8+ECyMYlihx36mP4OrXwJpyCTVxQE5SHPhoHwfZbdU7gctIWI6AZLrzxZDvsodcdbICNsrqX8X9qmRsw==",
+  "success": true,
+  "projectFilePath": "/Users/nartemov/Desktop/Colloq/src/TasksService.Infrastructure.Abstractions/TasksService.Infrastructure.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "/Users/nartemov/.nuget/packages/jetbrains.annotations/2023.2.0-eap4/jetbrains.annotations.2023.2.0-eap4.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.8.0/microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/microsoft.identitymodel.logging/6.8.0/microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/microsoft.identitymodel.tokens/6.8.0/microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/system.identitymodel.tokens.jwt/6.8.0/system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "/Users/nartemov/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
